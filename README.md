@@ -19,9 +19,8 @@ This program creates a search function that sequentially searches array x of N b
   - Location L is returned. (number from 1 to N)
   - Returns -1 for L if V is not found.
   
-Required Output
+Required Output: *Output Must Be Exactly as Shown*
 -
-*Output Must Be Exactly as Shown*<br>
 Search by F. Last<br><br>
 MIPS assembly language!<br><br>
 !:23<br>

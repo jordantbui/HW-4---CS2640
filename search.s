@@ -5,7 +5,7 @@
 #		Course:			cs-2640-01-f20
 # 	Description:
 #               search(&X, N, V, L)
-# 							Write a function to sequentially search  array X of N bytes for
+#               Write a function to sequentially search  array X of N bytes for
 #               relative location L of a value V.
 #               -Parameters &X, N, and V are passed to the procedure on
 #               the Stack, and relative location L (number ranging from

@@ -1,5 +1,4 @@
-# Homework 4 - CS2640
-# Search Program (MIPS)
+# Homework 4 Search Program(MIPS) - CS2640
 10/30/2020<br>
 Jordan Bui (BroncoID: 011821368)<br>
 CPP Fall 2020<br>

@@ -7,10 +7,11 @@ CS 2640 Computer Organization and Assembly Programming
 Homework 4 MIPS Code Implementation
 -
 Implementation for Search program. 
-Main will declare an array of bytes with value "MIPS assemblt language!" and the search program will search for the "!" letter and the "z" letter 
-and output the location for both letters.
-- File saved as search.s
-- Ran using QTSpim
+- Main declares an array of bytes with value "MIPS assemblt language!"
+- Use search to find the "!" letter and output the location in the array
+- Use search to find the "z" letter and output the location in the array
+- MIPS file saved as search.s
+- Tested using QTSpim program
 
 Search.s
 -

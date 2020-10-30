@@ -25,7 +25,7 @@ This program creates a search function that sequentially searches array x of N b
   
   Required Output
   -
-  *Output Must Be Exactly as Shown*
+  *Output Must Be Exactly as Shown*<br>
   Search by F. Last<br><br>
   MIPS assembly language!<br><br>
   !:23

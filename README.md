@@ -9,6 +9,8 @@ Homework 4 MIPS Code Implementation
 Implementation for Search program. 
 Main will declare an array of bytes with value "MIPS assemblt language!" and the search program will search for the "!" letter and the "z" letter 
 and output the location for both letters.
+- File saved as search.s
+- Ran using QTSpim
 
 Search.s
 -
